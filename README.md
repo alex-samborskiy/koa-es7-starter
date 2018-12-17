@@ -66,9 +66,9 @@ The repository root contains auxiliary files like `package.json`, `.gitignore`, 
   - `lib`: stuff that helps the app start up, e.g. environment, logger, the container configuration, etc.
   - `middleware`: custom app middleware.
   - `modules`: 
-   -- `routes`: API endpoints go here, and are automatically loaded at startup. Please see the section about API endpoints for details.
-   -- `services`: application services, this is just to illustrate the dynamic discovery of stuff as described in the Dependency injection section.
-    - `__tests__`: Unit tests for files in the `services` directory.
+   * `routes`: API endpoints go here, and are automatically loaded at startup. Please see the section about API endpoints for details.
+   * `services`: application services, this is just to illustrate the dynamic discovery of stuff as described in the Dependency injection section.
+   * `__tests__`: Unit tests for files in the `services` directory.
   - `[your directory]`: you can plop anything else here, too.
     - `__tests__`: Unit tests for files in your directory.
 
