@@ -1,5 +1,5 @@
-# Koa Boilerplate
-
+# Koa Starter
+Original repository <a href="https://github.com/jeffijoe/koa-es7-boilerplate">koa-es7-boilerplate Jeff Hansen</a>
 <a href="https://communityinviter.com/apps/koa-js/koajs" rel="KoaJs Slack Community">![KoaJs Slack](https://img.shields.io/badge/Koa.Js-Slack%20Channel-Slack.svg?longCache=true&style=for-the-badge)</a>
 
 

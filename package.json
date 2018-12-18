@@ -2,7 +2,7 @@
   "name": "koa-es7-starter",
   "version": "0.0.0",
   "description": "A boilerplate for writing Koa 2 apps with Babel.",
-  "author": "Alex Samborskiy",
+  "author": "Jeff Hansen",
   "license": "MIT",
   "engines": {
     "node": ">=8.0.0",
