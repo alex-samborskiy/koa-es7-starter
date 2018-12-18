@@ -869,12 +869,12 @@ atob@^2.1.1:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
 
-awilix-koa@2.1.1:
-  version "2.1.1"
-  resolved "http://registry.npmjs.org/awilix-koa/-/awilix-koa-2.1.1.tgz#53040646735f3d96773fc710dcb28196a171b292"
+awilix-koa@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/awilix-koa/-/awilix-koa-3.0.0.tgz#3e90976192956dd8ae27e7a8011b99fae7ede2f8"
   dependencies:
     awilix-router-core "^1.3.2"
-    koa-compose "^4.0.0"
+    koa-compose "^4.1.0"
     koa-router "^7.4.0"
 
 awilix-router-core@^1.3.2:
@@ -3433,7 +3433,7 @@ koa-compose@^3.0.0:
   dependencies:
     any-promise "^1.1.0"
 
-koa-compose@^4.0.0, koa-compose@^4.1.0:
+koa-compose@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/koa-compose/-/koa-compose-4.1.0.tgz#507306b9371901db41121c812e923d0d67d3e877"
 
