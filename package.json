@@ -48,7 +48,7 @@
     "babel-plugin-module-resolver": "3.1.1",
     "babel-plugin-source-map-support": "2.0.1",
     "cross-env": "5.2.0",
-    "eslint": "5.10.0",
+    "eslint": "5.11.0",
     "eslint-config-prettier": "2.10.0",
     "eslint-config-standard": "12.0.0",
     "eslint-plugin-import": "2.14.0",
