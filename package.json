@@ -18,7 +18,7 @@
     "precommit": "lint-staged"
   },
   "dependencies": {
-    "@koa/cors": "2.2.2",
+    "@koa/cors": "2.2.3",
     "awilix": "4.0.1",
     "awilix-koa": "3.0.0",
     "axios": "0.18.0",
