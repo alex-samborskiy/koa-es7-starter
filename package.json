@@ -20,7 +20,7 @@
   "dependencies": {
     "@koa/cors": "2.2.2",
     "awilix": "4.0.1",
-    "awilix-koa": "3.0.0",
+    "awilix-koa": "3.0.1",
     "axios": "0.18.0",
     "babel-eslint": "10.0.1",
     "bristol": "0.4.0",
