@@ -996,9 +996,9 @@ awilix-router-core@^1.5.0:
     glob "^7.1.3"
     tslib "^1.9.3"
 
-awilix@4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/awilix/-/awilix-4.0.1.tgz#c858c1d0f45851a69ce2e77f18f85ec4cb57a8f9"
+awilix@4.2.2:
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/awilix/-/awilix-4.2.2.tgz#8d5ac4aeedd3ac94dd6cff6ff9cc4b45f0c8d0e3"
   dependencies:
     camel-case "^3.0.0"
     glob "^7.1.3"
