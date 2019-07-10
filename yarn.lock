@@ -750,6 +750,17 @@
   dependencies:
     vary "^1.1.2"
 
+"@koa/router@^8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@koa/router/-/router-8.0.0.tgz#fd4ffa6f03d8293a04c023cb4a22b612401fbe70"
+  dependencies:
+    debug "^3.1.0"
+    http-errors "^1.3.1"
+    koa-compose "^3.0.0"
+    methods "^1.0.1"
+    path-to-regexp "^1.1.1"
+    urijs "^1.19.0"
+
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@samverschueren/stream-to-observable/-/stream-to-observable-0.3.0.tgz#ecdf48d532c58ea477acfcab80348424f8d0662f"
@@ -981,15 +992,15 @@ atob@^2.1.1:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
 
-awilix-koa@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/awilix-koa/-/awilix-koa-3.1.0.tgz#30db0ad37c09399ff61c3f9c4a6966318fd9099c"
+awilix-koa@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/awilix-koa/-/awilix-koa-4.0.0.tgz#6c1bbdaaa2f35f00a00274c92ec9217bb7dc0869"
   dependencies:
-    awilix-router-core "^1.5.0"
+    "@koa/router" "^8.0.0"
+    awilix-router-core "^1.6.1"
     koa-compose "^4.1.0"
-    koa-router "^7.4.0"
 
-awilix-router-core@^1.5.0:
+awilix-router-core@^1.6.1:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/awilix-router-core/-/awilix-router-core-1.6.1.tgz#6d51e1e832bf1284901be6e5554129fbd715f2cf"
   dependencies:
@@ -3636,7 +3647,7 @@ koa-respond@2.1.0:
   dependencies:
     is-string "^1.0.4"
 
-koa-router@7.4.0, koa-router@^7.4.0:
+koa-router@7.4.0:
   version "7.4.0"
   resolved "https://registry.yarnpkg.com/koa-router/-/koa-router-7.4.0.tgz#aee1f7adc02d5cb31d7d67465c9eacc825e8c5e0"
   dependencies:
