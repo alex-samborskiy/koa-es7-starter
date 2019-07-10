@@ -60,7 +60,7 @@
     "jest": "23.6.0",
     "lint-staged": "8.1.0",
     "nodemon": "1.18.9",
-    "prettier": "1.15.3",
+    "prettier": "1.18.2",
     "rimraf": "2.6.3",
     "smid": "0.1.1"
   },
