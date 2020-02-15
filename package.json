@@ -29,7 +29,7 @@
     "koa-bodyparser": "4.2.1",
     "koa-compress": "3.0.0",
     "koa-respond": "2.1.0",
-    "koa-router": "7.4.0",
+    "koa-router": "8.0.8",
     "lodash": "4.17.15",
     "palin": "2.3.0",
     "yenv": "2.1.0"
