@@ -30,7 +30,7 @@
     "koa-compress": "3.0.0",
     "koa-respond": "2.1.0",
     "koa-router": "7.4.0",
-    "lodash": "4.17.13",
+    "lodash": "4.17.21",
     "palin": "2.3.0",
     "yenv": "2.1.0"
   },
