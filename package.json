@@ -46,7 +46,7 @@
     "babel-jest": "24.9.0",
     "babel-loader": "8.0.6",
     "babel-plugin-module-resolver": "4.0.0",
-    "babel-plugin-source-map-support": "2.1.1",
+    "babel-plugin-source-map-support": "2.2.0",
     "cross-env": "6.0.3",
     "eslint": "6.5.1",
     "eslint-config-prettier": "6.4.0",
